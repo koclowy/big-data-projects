@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,java,hadoop,mysql,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,java,mysql,git&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48"/>
   <img src="https://skillicons.dev/icons?i=ubuntu,vim&theme=dark" />
 </p>
 
@@ -69,7 +70,7 @@ A collection of detailed lab practices covering:
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=hadoop&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img src="https://skillicons.dev/icons?i=java&theme=dark" />
   <img src="https://skillicons.dev/icons?i=git&theme=dark" />
