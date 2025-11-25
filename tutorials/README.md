@@ -11,7 +11,6 @@ Each lab includes screenshots, terminal outputs, explanations, and reflections.
 ### **Lab 01 — VirtualBox + Cloudera + Linux Basics**
 - Installed VirtualBox & imported Cloudera VM  
 - Practiced Linux commands (`ls`, `cat`, `mkdir`)  
-:contentReference[oaicite:7]{index=7}
 
 ---
 
@@ -27,7 +26,6 @@ Each lab includes screenshots, terminal outputs, explanations, and reflections.
 - Created Java MapReduce program  
 - Packaged JAR file and executed on Hadoop  
 - Interpreted job logs: map/reduce %, I/O bytes  
-:contentReference[oaicite:8]{index=8}
 
 ---
 
@@ -36,7 +34,6 @@ Each lab includes screenshots, terminal outputs, explanations, and reflections.
 - Creating & modifying tables  
 - Inserting rows & scanning  
 - Understanding timestamps and versions  
-:contentReference[oaicite:9]{index=9}
 
 ---
 
@@ -45,7 +42,6 @@ Each lab includes screenshots, terminal outputs, explanations, and reflections.
 - Loading data using PigStorage  
 - Filtering, grouping, summing  
 - Storing outputs  
-:contentReference[oaicite:10]{index=10}
 
 ---
 
@@ -54,7 +50,6 @@ Each lab includes screenshots, terminal outputs, explanations, and reflections.
 - Creating databases & tables  
 - Executing select/insert/alter/drop commands  
 - Understanding SQL compatibility  
-:contentReference[oaicite:11]{index=11}
 
 ---
 
@@ -62,7 +57,7 @@ Each lab includes screenshots, terminal outputs, explanations, and reflections.
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=hadoop&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img src="https://skillicons.dev/icons?i=java&theme=dark" />
 </p>
